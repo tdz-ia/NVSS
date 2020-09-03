@@ -70,3 +70,4 @@ stream server: waiting for connections
 Finally launch the clients outside of the container on the baremetal machine as described above or forward the ports 8089 and 8090 using OpenSHH from your laptop.
 
 # NVSS
+# NVSS:https://developer.nvidia.com/blog/streaming-interactive-deep-learning-applications-at-peak-performance/#comments 
